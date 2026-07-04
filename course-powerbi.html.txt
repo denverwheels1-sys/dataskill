@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Power BI Course</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Power BI</h1>
+
+<ul>
+  <li>Dashboards</li>
+  <li>DAX Basics</li>
+  <li>Reports</li>
+</ul>
+
+<h2>₹1999</h2>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Excel Course</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Excel Mastery</h1>
+
+<ul>
+  <li>Formulas</li>
+  <li>Pivot Tables</li>
+  <li>Charts</li>
+</ul>
+
+<h2>₹999</h2>
+
+</body>
+</html>

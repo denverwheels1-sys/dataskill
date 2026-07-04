@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SQL Course</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>SQL Bootcamp</h1>
+
+<ul>
+  <li>SELECT queries</li>
+  <li>JOINs</li>
+  <li>GROUP BY</li>
+</ul>
+
+<h2>₹1499</h2>
+
+</body>
+</html>

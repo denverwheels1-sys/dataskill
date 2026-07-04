@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pricing</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Pricing Plans</h1>
+
+<div class="grid">
+  <div class="card">Excel - ₹999</div>
+  <div class="card">SQL - ₹1499</div>
+  <div class="card">Power BI - ₹1999</div>
+</div>
+
+</body>
+</html>
